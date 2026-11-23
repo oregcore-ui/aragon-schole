@@ -1,29 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 560" role="img" aria-labelledby="title desc">
-  <title id="title">Comparación de la naturaleza humana</title>
-  <desc id="desc">Comparación entre la concepción platónica del alma tripartita y el hilemorfismo aristotélico.</desc>
-  <rect width="960" height="560" fill="#FAF8F5"/>
-  <text x="480" y="54" text-anchor="middle" fill="#1C1B18" font-family="Georgia, serif" font-size="30">Dos concepciones de la naturaleza humana</text>
-  <rect x="55" y="90" width="385" height="410" rx="8" fill="#FFFFFF" stroke="#1E3A5F" stroke-width="2"/>
-  <text x="247" y="130" text-anchor="middle" fill="#1E3A5F" font-family="Arial, sans-serif" font-size="21" font-weight="700">PLATÓN</text>
-  <text x="247" y="158" text-anchor="middle" fill="#5f5a52" font-family="Georgia, serif" font-size="16">Alma tripartita</text>
-  <rect x="92" y="180" width="310" height="54" rx="27" fill="#1E3A5F"/>
-  <text x="247" y="214" text-anchor="middle" fill="#FFFFFF" font-family="Georgia, serif" font-size="20">Razón · racional</text>
-  <rect x="92" y="242" width="310" height="54" rx="27" fill="#8C3B2B"/>
-  <text x="247" y="276" text-anchor="middle" fill="#FFFFFF" font-family="Georgia, serif" font-size="20">Ánimo · irascible</text>
-  <rect x="92" y="304" width="310" height="54" rx="27" fill="#d8d1c7"/>
-  <text x="247" y="338" text-anchor="middle" fill="#1C1B18" font-family="Georgia, serif" font-size="20">Deseo · concupiscible</text>
-  <rect x="150" y="380" width="194" height="48" rx="8" fill="#FAF8F5" stroke="#8C3B2B" stroke-width="2"/>
-  <text x="247" y="410" text-anchor="middle" fill="#1C1B18" font-family="Georgia, serif" font-size="18">CUERPO</text>
-  <text x="247" y="470" text-anchor="middle" fill="#1C1B18" font-family="Georgia, serif" font-size="17">Dualismo: alma y cuerpo son distintos</text>
-  <rect x="520" y="90" width="385" height="410" rx="8" fill="#FFFFFF" stroke="#8C3B2B" stroke-width="2"/>
-  <text x="712" y="130" text-anchor="middle" fill="#8C3B2B" font-family="Arial, sans-serif" font-size="21" font-weight="700">ARISTÓTELES</text>
-  <text x="712" y="158" text-anchor="middle" fill="#5f5a52" font-family="Georgia, serif" font-size="16">Unidad sustancial hilemórfica</text>
-  <rect x="585" y="190" width="255" height="68" fill="#1E3A5F"/>
-  <text x="712" y="232" text-anchor="middle" fill="#FFFFFF" font-family="Georgia, serif" font-size="21">FORMA · alma</text>
-  <rect x="585" y="258" width="255" height="68" fill="#d8d1c7"/>
-  <text x="712" y="300" text-anchor="middle" fill="#1C1B18" font-family="Georgia, serif" font-size="20">MATERIA · cuerpo</text>
-  <path d="M712 326v42" stroke="#8C3B2B" stroke-width="5"/>
-  <rect x="620" y="368" width="184" height="82" rx="8" fill="#FAF8F5" stroke="#8C3B2B" stroke-width="2"/>
-  <text x="712" y="401" text-anchor="middle" fill="#1C1B18" font-family="Georgia, serif" font-size="18">UNIDAD DEL</text>
-  <text x="712" y="427" text-anchor="middle" fill="#1C1B18" font-family="Georgia, serif" font-size="18">SER HUMANO</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 930" role="img" aria-labelledby="title desc">
+  <title id="title">Alma, cuerpo y naturaleza humana</title>
+  <desc id="desc">Platón distingue tres principios del alma y diferencia alma y cuerpo; Aristóteles explica al viviente como unidad de materia y forma.</desc>
+  <rect width="640" height="930" fill="#FAF8F5"/>
+  <text x="320" y="58" text-anchor="middle" fill="#18181B" font-family="Georgia, serif" font-size="34">Alma, cuerpo y naturaleza humana</text>
+  <rect x="32" y="88" width="576" height="405" rx="24" fill="#FFFFFF" stroke="#1E3A5F" stroke-width="2"/>
+  <text x="320" y="140" text-anchor="middle" fill="#1E3A5F" font-family="Arial, sans-serif" font-size="27" font-weight="700">PLATÓN · REPÚBLICA IV</text>
+  <text x="320" y="181" text-anchor="middle" fill="#625E59" font-family="Georgia, serif" font-size="23">Tres principios de una misma alma</text>
+  <rect x="70" y="204" width="500" height="58" rx="18" fill="#1E3A5F"/>
+  <text x="320" y="241" text-anchor="middle" fill="#FFFFFF" font-family="Georgia, serif" font-size="24">Racional · conocimiento y deliberación</text>
+  <rect x="70" y="274" width="500" height="58" rx="18" fill="#8C3B2B"/>
+  <text x="320" y="311" text-anchor="middle" fill="#FFFFFF" font-family="Georgia, serif" font-size="24">Irascible · ánimo y valor</text>
+  <rect x="70" y="344" width="500" height="58" rx="18" fill="#D8D1C7"/>
+  <text x="320" y="381" text-anchor="middle" fill="#18181B" font-family="Georgia, serif" font-size="24">Apetitivo · deseos y necesidades</text>
+  <text x="320" y="451" text-anchor="middle" fill="#18181B" font-family="Georgia, serif" font-size="21">El alma puede conocer lo inteligible; el cuerpo es sensible.</text>
+  <rect x="32" y="515" width="576" height="390" rx="24" fill="#FFFFFF" stroke="#8C3B2B" stroke-width="2"/>
+  <text x="320" y="565" text-anchor="middle" fill="#8C3B2B" font-family="Arial, sans-serif" font-size="27" font-weight="700">ARISTÓTELES · ACERCA DEL ALMA</text>
+  <text x="320" y="603" text-anchor="middle" fill="#625E59" font-family="Georgia, serif" font-size="22">El viviente reúne dos principios</text>
+  <rect x="72" y="625" width="220" height="74" rx="18" fill="#D8D1C7"/>
+  <text x="182" y="655" text-anchor="middle" fill="#18181B" font-family="Georgia, serif" font-size="23">MATERIA</text>
+  <text x="182" y="682" text-anchor="middle" fill="#18181B" font-family="Georgia, serif" font-size="21">cuerpo</text>
+  <rect x="348" y="625" width="220" height="74" rx="18" fill="#1E3A5F"/>
+  <text x="458" y="655" text-anchor="middle" fill="#FFFFFF" font-family="Georgia, serif" font-size="23">FORMA</text>
+  <text x="458" y="682" text-anchor="middle" fill="#FFFFFF" font-family="Georgia, serif" font-size="21">alma</text>
+  <path d="M182 699v32l138 25m138-57v32l-138 25" fill="none" stroke="#8C3B2B" stroke-width="3"/>
+  <rect x="98" y="756" width="444" height="66" rx="20" fill="#FAF8F5" stroke="#8C3B2B" stroke-width="2"/>
+  <text x="320" y="798" text-anchor="middle" fill="#18181B" font-family="Georgia, serif" font-size="25">Unidad sustancial · un solo viviente</text>
+  <text x="320" y="865" text-anchor="middle" fill="#625E59" font-family="Georgia, serif" font-size="21">El alma es acto primero de un cuerpo organizado.</text>
 </svg>

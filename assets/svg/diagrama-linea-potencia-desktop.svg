@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 560" role="img" aria-labelledby="title desc">
+  <title id="title">Conocimiento y realidad en Platón y Aristóteles</title>
+  <desc id="desc">La línea dividida presenta cuatro grados de saber en Platón; materia y forma constituyen una sustancia y potencia y acto explican el cambio en Aristóteles.</desc>
+  <rect width="960" height="560" fill="#FAF8F5"/>
+  <text x="480" y="58" text-anchor="middle" fill="#18181B" font-family="Georgia, serif" font-size="32">Conocimiento y realidad</text>
+  <rect x="40" y="95" width="420" height="420" rx="24" fill="#FFFFFF" stroke="#1E3A5F" stroke-width="2"/>
+  <text x="250" y="140" text-anchor="middle" fill="#1E3A5F" font-family="Arial, sans-serif" font-size="24" font-weight="700">PLATÓN · LÍNEA DIVIDIDA</text>
+  <text x="250" y="174" text-anchor="middle" fill="#625E59" font-family="Georgia, serif" font-size="20">Grados del saber y de la realidad</text>
+  <rect x="82" y="192" width="336" height="48" rx="15" fill="#1E3A5F"/>
+  <text x="250" y="223" text-anchor="middle" fill="#FFFFFF" font-family="Georgia, serif" font-size="20">Noesis · Ideas</text>
+  <rect x="82" y="249" width="336" height="48" rx="15" fill="#48698F"/>
+  <text x="250" y="280" text-anchor="middle" fill="#FFFFFF" font-family="Georgia, serif" font-size="20">Dianoia · matemáticas</text>
+  <rect x="82" y="306" width="336" height="48" rx="15" fill="#8C3B2B"/>
+  <text x="250" y="337" text-anchor="middle" fill="#FFFFFF" font-family="Georgia, serif" font-size="20">Pistis · objetos sensibles</text>
+  <rect x="82" y="363" width="336" height="48" rx="15" fill="#D8D1C7"/>
+  <text x="250" y="394" text-anchor="middle" fill="#18181B" font-family="Georgia, serif" font-size="20">Eikasia · imágenes</text>
+  <text x="250" y="458" text-anchor="middle" fill="#625E59" font-family="Georgia, serif" font-size="19">De las imágenes a lo inteligible.</text>
+  <rect x="500" y="95" width="420" height="420" rx="24" fill="#FFFFFF" stroke="#8C3B2B" stroke-width="2"/>
+  <text x="710" y="140" text-anchor="middle" fill="#8C3B2B" font-family="Arial, sans-serif" font-size="24" font-weight="700">ARISTÓTELES</text>
+  <text x="710" y="174" text-anchor="middle" fill="#625E59" font-family="Georgia, serif" font-size="20">Sustancia y cambio</text>
+  <rect x="545" y="190" width="145" height="65" rx="16" fill="#D8D1C7"/>
+  <text x="617" y="217" text-anchor="middle" fill="#18181B" font-family="Georgia, serif" font-size="19">MATERIA</text>
+  <text x="617" y="241" text-anchor="middle" fill="#18181B" font-family="Georgia, serif" font-size="17">de qué está hecho</text>
+  <rect x="730" y="190" width="145" height="65" rx="16" fill="#1E3A5F"/>
+  <text x="802" y="217" text-anchor="middle" fill="#FFFFFF" font-family="Georgia, serif" font-size="19">FORMA</text>
+  <text x="802" y="241" text-anchor="middle" fill="#FFFFFF" font-family="Georgia, serif" font-size="17">qué es</text>
+  <path d="M617 255v22l93 20 93-20v-22" fill="none" stroke="#8C3B2B" stroke-width="3"/>
+  <rect x="560" y="297" width="300" height="50" rx="16" fill="#FAF8F5" stroke="#8C3B2B" stroke-width="2"/>
+  <text x="710" y="329" text-anchor="middle" fill="#18181B" font-family="Georgia, serif" font-size="21">Sustancia individual</text>
+  <text x="710" y="384" text-anchor="middle" fill="#625E59" font-family="Georgia, serif" font-size="19">El cambio · capacidad que se realiza</text>
+  <rect x="548" y="401" width="150" height="55" rx="16" fill="#8C3B2B"/>
+  <text x="623" y="435" text-anchor="middle" fill="#FFFFFF" font-family="Georgia, serif" font-size="19">POTENCIA</text>
+  <path d="M704 428h28" stroke="#18181B" stroke-width="3" marker-end="url(#arrow)"/>
+  <rect x="740" y="401" width="150" height="55" rx="16" fill="#1E3A5F"/>
+  <text x="815" y="435" text-anchor="middle" fill="#FFFFFF" font-family="Georgia, serif" font-size="19">ACTO</text>
+  <text x="623" y="486" text-anchor="middle" fill="#625E59" font-family="Georgia, serif" font-size="17">capacidad</text>
+  <text x="815" y="486" text-anchor="middle" fill="#625E59" font-family="Georgia, serif" font-size="17">realización</text>
+  <defs><marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0l10 5-10 5z" fill="#18181B"/></marker></defs>
+</svg>

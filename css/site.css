@@ -223,7 +223,9 @@ h1, h2, h3 { font-family: var(--serif-font); font-weight: 400; line-height: 1.12
 .media-card a, .gallery-controls button { display: inline-block; padding: 0.5rem 0.75rem; border: 1px solid var(--rule); color: var(--ink); font-weight: 700; text-decoration: none; }
 .media-figure { margin: 0; }
 .article-media .media-figure { padding: clamp(0.65rem, 2vw, 1.25rem); border: 1px solid var(--rule); border-radius: 1rem; background: var(--surface); box-shadow: 0 4px 18px rgb(28 27 24 / 4%); }
+.media-figure picture { display: block; min-width: 0; }
 .media-figure img, .gallery-frame img { display: block; width: 100%; height: auto; max-height: 32rem; border-radius: 0.65rem; object-fit: contain; background: var(--paper); }
+.media-figure img { max-height: none; }
 .media-figure figcaption, .gallery-caption { padding-top: 0.65rem; font-size: 0.9rem; }
 .gallery-controls { display: flex; justify-content: space-between; gap: 1rem; align-items: center; margin-top: 0.75rem; }
 .gallery-controls output { color: var(--ink); font-size: 0.85rem; }
@@ -279,6 +281,9 @@ body { -webkit-font-smoothing: antialiased; }
 .lexicon-search-wrap { max-width: 34rem; margin: -1.5rem 0 var(--space-4); }
 .lexicon-search { width: 100%; min-height: 3rem; padding: 0.7rem 0.95rem; border: 1px solid var(--rule); border-radius: 0.8rem; background: var(--surface); }
 .lexicon-empty { padding: 1.2rem; border: 1px dashed var(--rule); border-radius: 0.8rem; color: var(--muted); }
+.lexicon-context { display: flex; flex-wrap: wrap; gap: 0.35rem 0.8rem; margin-top: 0.55rem; color: var(--muted); font-size: 0.78rem; }
+.lexicon-context a { color: var(--egeo); text-decoration-thickness: 1px; }
+.lexicon-context a:hover { color: var(--accent); }
 .back-to-top { position: fixed; z-index: 20; right: clamp(1rem, 3vw, 2rem); bottom: clamp(1rem, 3vw, 2rem); display: inline-flex; align-items: center; justify-content: center; gap: 0.5rem; min-width: 3rem; min-height: 3rem; padding: 0.75rem 1rem; border: 1px solid var(--rule); border-radius: 99px; background: var(--surface-raised); color: var(--ink); box-shadow: var(--shadow); font-size: 0.85rem; font-weight: 700; }
 .back-to-top:hover { border-color: var(--accent); color: var(--accent); transform: translateY(-2px); }
 .copy-citation.is-copied { border-color: #3b8061; background: #e7f2eb; color: #205b40; }
@@ -382,6 +387,10 @@ body { -webkit-font-smoothing: antialiased; }
   .site-header, .site-footer, .article-sidebar, .mobile-article-menu, .article-jump, .copy-citation, .theme-toggle, .search-label, .site-search, .skip-link, .article-pagination { display: none !important; }
   .article-layout, .page-shell { display: block; max-width: none; padding: 0; }
   .article-main, .reading-column, .article-prose { max-width: 68ch; margin: 0 auto; }
+  .reading-column { display: flex; flex-direction: column; }
+  .reading-column > * { order: 3; }
+  .reading-column > .article-prose { order: 1; }
+  .reading-column > #informacion { order: 2; }
   a { text-decoration: none; }
   a[href^="http"]::after { content: " (" attr(href) ")"; font-size: 8pt; overflow-wrap: anywhere; }
   .article-media video, .article-media object { max-height: 8cm; }
