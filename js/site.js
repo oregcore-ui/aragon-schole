@@ -156,7 +156,15 @@
     button.addEventListener('click', async () => {
       const status = button.parentElement.querySelector('.copy-status');
       try {
-        await navigator.clipboard.writeText(button.dataset.copy);
+        const citation = button.parentElement.querySelector('#citation-text');
+        if (citation && navigator.clipboard?.write && typeof ClipboardItem !== 'undefined') {
+          await navigator.clipboard.write([new ClipboardItem({
+            'text/html': new Blob([citation.innerHTML], { type: 'text/html' }),
+            'text/plain': new Blob([button.dataset.copy], { type: 'text/plain' })
+          })]);
+        } else {
+          await navigator.clipboard.writeText(button.dataset.copy);
+        }
         button.textContent = 'Cita copiada';
         button.classList.add('is-copied');
         if (status) {
