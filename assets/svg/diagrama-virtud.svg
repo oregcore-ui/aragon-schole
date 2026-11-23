@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 560" role="img" aria-labelledby="title desc">
+  <title id="title">La virtud como justo medio</title>
+  <desc id="desc">Esquema de dos excesos opuestos, el justo medio virtuoso y su orden hacia la eudaimonía y el bien común.</desc>
+  <rect width="960" height="560" fill="#FAF8F5"/>
+  <text x="480" y="54" text-anchor="middle" fill="#1C1B18" font-family="Georgia, serif" font-size="30">Virtud, eudaimonía y bien común</text>
+  <rect x="55" y="105" width="850" height="120" rx="60" fill="#FFFFFF" stroke="#d8d1c7" stroke-width="2"/>
+  <rect x="55" y="105" width="255" height="120" rx="60" fill="#8C3B2B"/>
+  <text x="182" y="155" text-anchor="middle" fill="#FFFFFF" font-family="Georgia, serif" font-size="22">EXCESO</text>
+  <text x="182" y="187" text-anchor="middle" fill="#FFFFFF" font-family="Georgia, serif" font-size="16">temeridad · desenfreno</text>
+  <rect x="353" y="105" width="255" height="120" rx="60" fill="#1E3A5F"/>
+  <text x="480" y="155" text-anchor="middle" fill="#FFFFFF" font-family="Georgia, serif" font-size="19">VIRTUD · JUSTO MEDIO</text>
+  <text x="480" y="187" text-anchor="middle" fill="#FFFFFF" font-family="Georgia, serif" font-size="16">recta razón · hábito</text>
+  <rect x="650" y="105" width="255" height="120" rx="60" fill="#d8d1c7"/>
+  <text x="778" y="155" text-anchor="middle" fill="#1C1B18" font-family="Georgia, serif" font-size="22">DEFECTO</text>
+  <text x="778" y="187" text-anchor="middle" fill="#1C1B18" font-family="Georgia, serif" font-size="16">cobardía · insensibilidad</text>
+  <path d="M480 225v72" stroke="#8C3B2B" stroke-width="4" marker-end="url(#arrow)"/>
+  <defs><marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0l10 5-10 5z" fill="#8C3B2B"/></marker></defs>
+  <rect x="270" y="300" width="420" height="88" rx="8" fill="#FAF8F5" stroke="#1E3A5F" stroke-width="2"/>
+  <text x="480" y="338" text-anchor="middle" fill="#1E3A5F" font-family="Georgia, serif" font-size="24">EUDAIMONÍA</text>
+  <text x="480" y="367" text-anchor="middle" fill="#1C1B18" font-family="Georgia, serif" font-size="17">actividad racional conforme a la virtud</text>
+  <path d="M480 388v48" stroke="#8C3B2B" stroke-width="4" marker-end="url(#arrow)"/>
+  <rect x="210" y="438" width="540" height="82" rx="41" fill="#1E3A5F"/>
+  <text x="480" y="472" text-anchor="middle" fill="#FFFFFF" font-family="Georgia, serif" font-size="22">BIEN COMÚN DE LA POLIS</text>
+  <text x="480" y="500" text-anchor="middle" fill="#FFFFFF" font-family="Georgia, serif" font-size="16">ley recta · justicia · vida compartida</text>
+</svg>

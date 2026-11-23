@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 560" role="img" aria-labelledby="title desc">
+  <title id="title">Comparación de la naturaleza humana</title>
+  <desc id="desc">Comparación entre la concepción platónica del alma tripartita y el hilemorfismo aristotélico.</desc>
+  <rect width="960" height="560" fill="#FAF8F5"/>
+  <text x="480" y="54" text-anchor="middle" fill="#1C1B18" font-family="Georgia, serif" font-size="30">Dos concepciones de la naturaleza humana</text>
+  <rect x="55" y="90" width="385" height="410" rx="8" fill="#FFFFFF" stroke="#1E3A5F" stroke-width="2"/>
+  <text x="247" y="130" text-anchor="middle" fill="#1E3A5F" font-family="Arial, sans-serif" font-size="21" font-weight="700">PLATÓN</text>
+  <text x="247" y="158" text-anchor="middle" fill="#5f5a52" font-family="Georgia, serif" font-size="16">Alma tripartita</text>
+  <rect x="92" y="180" width="310" height="54" rx="27" fill="#1E3A5F"/>
+  <text x="247" y="214" text-anchor="middle" fill="#FFFFFF" font-family="Georgia, serif" font-size="20">Razón · racional</text>
+  <rect x="92" y="242" width="310" height="54" rx="27" fill="#8C3B2B"/>
+  <text x="247" y="276" text-anchor="middle" fill="#FFFFFF" font-family="Georgia, serif" font-size="20">Ánimo · irascible</text>
+  <rect x="92" y="304" width="310" height="54" rx="27" fill="#d8d1c7"/>
+  <text x="247" y="338" text-anchor="middle" fill="#1C1B18" font-family="Georgia, serif" font-size="20">Deseo · concupiscible</text>
+  <rect x="150" y="380" width="194" height="48" rx="8" fill="#FAF8F5" stroke="#8C3B2B" stroke-width="2"/>
+  <text x="247" y="410" text-anchor="middle" fill="#1C1B18" font-family="Georgia, serif" font-size="18">CUERPO</text>
+  <text x="247" y="470" text-anchor="middle" fill="#1C1B18" font-family="Georgia, serif" font-size="17">Dualismo: alma y cuerpo son distintos</text>
+  <rect x="520" y="90" width="385" height="410" rx="8" fill="#FFFFFF" stroke="#8C3B2B" stroke-width="2"/>
+  <text x="712" y="130" text-anchor="middle" fill="#8C3B2B" font-family="Arial, sans-serif" font-size="21" font-weight="700">ARISTÓTELES</text>
+  <text x="712" y="158" text-anchor="middle" fill="#5f5a52" font-family="Georgia, serif" font-size="16">Unidad sustancial hilemórfica</text>
+  <rect x="585" y="190" width="255" height="68" fill="#1E3A5F"/>
+  <text x="712" y="232" text-anchor="middle" fill="#FFFFFF" font-family="Georgia, serif" font-size="21">FORMA · alma</text>
+  <rect x="585" y="258" width="255" height="68" fill="#d8d1c7"/>
+  <text x="712" y="300" text-anchor="middle" fill="#1C1B18" font-family="Georgia, serif" font-size="20">MATERIA · cuerpo</text>
+  <path d="M712 326v42" stroke="#8C3B2B" stroke-width="5"/>
+  <rect x="620" y="368" width="184" height="82" rx="8" fill="#FAF8F5" stroke="#8C3B2B" stroke-width="2"/>
+  <text x="712" y="401" text-anchor="middle" fill="#1C1B18" font-family="Georgia, serif" font-size="18">UNIDAD DEL</text>
+  <text x="712" y="427" text-anchor="middle" fill="#1C1B18" font-family="Georgia, serif" font-size="18">SER HUMANO</text>
+</svg>

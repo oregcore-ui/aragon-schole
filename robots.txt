@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://oregcore-ui.github.io/aragon-schole/sitemap.xml
