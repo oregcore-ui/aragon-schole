@@ -344,9 +344,8 @@ body { -webkit-font-smoothing: antialiased; }
   .site-search { width: auto; min-height: 2.75rem; flex: 1; padding: 0.6rem 0.8rem; border-radius: 0.55rem; background: var(--surface); font-size: 0.88rem; }
   .search-submit { width: 2.75rem; min-height: 2.75rem; border: 1px solid var(--rule); border-radius: 0.55rem; background: var(--surface); }
   .theme-toggle { grid-area: theme; width: 2.75rem; min-height: 2.75rem; border: 1px solid var(--rule); border-radius: 0.55rem; background: var(--surface); }
-  .main-nav { grid-area: nav; width: 100%; gap: 0.15rem; padding-bottom: 0.1rem; overflow-x: auto; overscroll-behavior-inline: contain; scrollbar-width: none; font-size: 0.75rem; }
-  .main-nav::-webkit-scrollbar { display: none; }
-  .main-nav a { flex: 0 0 auto; padding: 0.25rem 0.3rem; border-radius: 0.4rem; white-space: nowrap; }
+  .main-nav { display: grid; grid-area: nav; grid-template-columns: repeat(2, minmax(0, 1fr)); width: 100%; gap: 0.45rem; padding-top: 0.1rem; overflow: visible; font-size: 0.78rem; }
+  .main-nav a { display: flex; min-height: 2.5rem; align-items: center; justify-content: center; padding: 0.5rem 0.4rem; border: 1px solid var(--rule); border-radius: 0.55rem; background: var(--surface); text-align: center; white-space: normal; }
   .home-hero { grid-template-columns: 1fr; gap: 1.75rem; min-height: auto; padding: 3rem 1rem 2.25rem; }
   .home-hero h1 { max-width: 12ch; font-size: clamp(2.65rem, 10.5vw, 3.8rem); }
   .home-intro-copy { font-size: 0.96rem; }
